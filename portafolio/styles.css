@@ -1,0 +1,59 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #FFFFFF;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.freepik.com/free-photos-vectors/textura-de-papel'); 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
+    background-color: #f0f0f0; 
+  }
+  
+  h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #333333;
+  }
+  
+  h1 span {
+    color: #A8D5A2;
+  }
+  
+  .navbar {
+    background-color: #2E4A3B;
+    padding: 10px 20px; 
+  }
+  
+  .navbar a {
+    color: #FFFFFF;
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 15px; 
+  }
+  
+  .navbar a:hover {
+    color: #A8D5A2;
+  }
+  
+  .portfolio-image {
+    max-width: 100%;
+    height: auto; 
+    border-radius: 10px;
+    border: 3px solid #A8D5A2; 
+  }
+  
+  /* Footer Styling */
+  footer {
+    background-color: #2E4A3B;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  footer p {
+    font-size: 14px;
+    color: #FFFFFF; 
+  }
+  
